@@ -48,16 +48,16 @@ well production data
 ## Cost Structure - All Inputs from PR 10-K FY2025
 
 > **Source:** PR 10-K FY2025, EDGAR Accession **0001658566-26-000035**, filed February 26, 2026  
-> Item 7 MD&A — Operating costs per Boe table / Average realized price table
+> Item 7 MD&A - Operating costs per Boe table / Average realized price table
 
 | Input | Value | 10-K Reference |
 |---|---|---|
-| LOE | $5.26/BOE | Item 7 MD&A — operating costs table |
-| GP&T | $1.40/BOE | Item 7 MD&A — operating costs table |
-| Severance & Ad Valorem | $2.72/BOE | Item 7 MD&A — **flat $/BOE, not % of revenue** |
-| Oil realized price | $64.06/bbl | Item 7 — avg sales price excl. hedges |
-| NGL realized price | $18.41/bbl | Item 7 — avg sales price excl. hedges |
-| Gas realized price | $0.63/Mcf | Item 7 — Waha weakness; incl. purchased gas |
+| LOE | $5.26/BOE | Item 7 MD&A - operating costs table |
+| GP&T | $1.40/BOE | Item 7 MD&A - operating costs table |
+| Severance & Ad Valorem | $2.72/BOE | Item 7 MD&A - **flat $/BOE, not % of revenue** |
+| Oil realized price | $64.06/bbl | Item 7 - avg sales price excl. hedges |
+| NGL realized price | $18.41/bbl | Item 7 - avg sales price excl. hedges |
+| Gas realized price | $0.63/Mcf | Item 7 - Waha weakness; incl. purchased gas |
 
 Not guidance. Not press releases. The audited annual filing.
 
@@ -80,11 +80,11 @@ Not guidance. Not press releases. The audited annual filing.
 
 At **$60 WTI** and **$7.75MM D&C** (PR's announcement-period cost of ~$775/ft):
 
-> **Well-level unlevered IRR ≈ 22–26%** — above a 20% A&D hurdle
+> **Well-level unlevered IRR ≈ 22-26%** - above a 20% A&D hurdle
 
 By Q4 2025, PR's D&C costs fell to a record **$700/ft (~$7.0MM/well)**:
 
-> **IRR improves to ~28–32%** — the deal got better after it closed
+> **IRR improves to ~28–32%** - the deal got better after it closed
 
 ![IRR Sensitivity Heatmap](irr_sensitivity.png)
 ![Type Curve](type_curve.png)
@@ -160,5 +160,5 @@ openpyxl>=3.1
 - PR Q2 2025 8-K / Earnings Release (Aug 7, 2025)
 - PR Q4 2025 Earnings Release (Feb 25, 2026)
 - TGS/ComboCurve: *Delaware 2nd Bone Spring Regional Analysis* (Dec 2025)
-- Enverus: *Permian Basin — The Intervals Keep Coming* (2025)
-- Arps, J.J. (1945). Analysis of Decline Curves. *Trans. AIME*, 160, 228–247.
+- Enverus: *Permian Basin - The Intervals Keep Coming* (2025)
+- Arps, J.J. (1945). Analysis of Decline Curves. *Trans. AIME*, 160, 228-247.
