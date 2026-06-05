@@ -1,4 +1,4 @@
-# PR / APA Corp — $608MM Delaware Basin A&D Deal Teardown
+# PR / APA Corp - $608MM Delaware Basin A&D Deal Teardown
 
 **Full pipeline:** Public production data → Arps decline curve fitting → P10/P50/P90 type curve → Well-level unlevered IRR → Sensitivity analysis
 
