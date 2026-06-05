@@ -2,7 +2,7 @@
 
 **Full pipeline:** Public production data → Arps decline curve fitting → P10/P50/P90 type curve → Well-level unlevered IRR → Sensitivity analysis
 
-Built to analyze Permian Resources' acquisition of APA Corp's Northern Delaware Basin assets — the kind of analysis an A&D banking team runs on every deal they advise on.
+Built to analyze Permian Resources' acquisition of APA Corp's Northern Delaware Basin assets - the kind of analysis an A&D banking team runs on every deal they advise on.
 
 ---
 
@@ -45,7 +45,7 @@ well production data
 
 ---
 
-## Cost Structure — All Inputs from PR 10-K FY2025
+## Cost Structure - All Inputs from PR 10-K FY2025
 
 > **Source:** PR 10-K FY2025, EDGAR Accession **0001658566-26-000035**, filed February 26, 2026  
 > Item 7 MD&A — Operating costs per Boe table / Average realized price table
