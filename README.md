@@ -86,6 +86,9 @@ By Q4 2025, PR's D&C costs fell to a record **$700/ft (~$7.0MM/well)**:
 
 > **IRR improves to ~28–32%** — the deal got better after it closed
 
+![IRR Sensitivity Heatmap](irr_sensitivity.png)
+![Type Curve](type_curve.png)
+
 ---
 
 ## Project Structure
